@@ -1,0 +1,26 @@
+{
+  "name": "react-smart-tooltip",
+  "version": "0.0.1",
+  "description": "react tooltip component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevilMikeWu/react-tooltip.git"
+  },
+  "keywords": [
+    "tooltip",
+    "react",
+    "react-component",
+    "react-smart-tooltip",
+    "react-tooltip"
+  ],
+  "author": "Mike Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevilMikeWu/react-tooltip/issues"
+  },
+  "homepage": "https://github.com/DevilMikeWu/react-tooltip#readme"
+}
